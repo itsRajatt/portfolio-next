@@ -118,11 +118,11 @@ export default function Portfolio() {
           >
             {[
               {
-                href: socialLinks[0]?.href ?? "https://github.com",
+                href: socialLinks[0]?.href ?? "https://github.com/itsRajatt",
                 icon: <Github className="w-6 h-6" />,
               },
               {
-                href: socialLinks[1]?.href ?? "https://linkedin.com",
+                href: socialLinks[1]?.href ?? "https://www.linkedin.com/in/rajat-thakur-ab68111b9",
                 icon: <Linkedin className="w-6 h-6" />,
               },
               {
